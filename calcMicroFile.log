@@ -1,0 +1,6 @@
+{"level":"info","message":"Calculator microservice listening on port 3000"}
+{"level":"error","message":"num2 is invalid"}
+{"level":"error","message":"num2 is invalid"}
+{"level":"error","message":"Cannot divide by zero"}
+{"level":"info","message":"Calculator microservice listening on port 3000"}
+{"level":"info","message":"Calculator microservice listening on port 3000"}
